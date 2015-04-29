@@ -1,0 +1,15 @@
+DOCTYPE html
+<head>
+</head>
+<body>
+	<div>
+		<p> Find a Store</p>
+		<p> Gift Card</p>
+		<p> Registry</p>
+	</div>
+	<div>
+		<p>Beyond</p>
+		<p>Furnishing</p>
+		<input type= "search" name= "search_text" />
+		<
+</body>
